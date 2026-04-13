@@ -1,0 +1,15 @@
+{
+  "main": {
+    "curators": "oneofthedavesiknow,gpohl,crispinguppy",
+    "taxonId": "47157",
+    "placeId": "7085",
+    "omitObservationsByUsers": "cfs-nfrc",
+    "baselineCompletionDate": "2024-01-01"
+  },
+  "taxonChanges": {
+    "enabled": true
+  },
+  "newAdditions": {
+    "enabled": true
+  }
+}
