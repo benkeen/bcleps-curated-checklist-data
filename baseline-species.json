@@ -1,5 +1,5 @@
 {
-  "validationDate": "2026-04-13T05:02:59.119Z",
+  "validationDate": "2026-04-13T05:21:59.649Z",
   "data": [
     {
       "id": 47719,
@@ -34,24 +34,6 @@
         "tribe": "Lymantriini",
         "genus": "Lymantria",
         "species": "Lymantria dispar"
-      }
-    },
-    {
-      "id": 48464,
-      "name": "Retinia metallica",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 2,
-      "taxonomy": {
-        "superfamily": "Tortricoidea",
-        "family": "Tortricidae",
-        "subfamily": "Olethreutinae",
-        "tribe": "Eucosmini",
-        "genus": "Retinia",
-        "species": "Retinia metallica"
       }
     },
     {
@@ -354,24 +336,6 @@
       }
     },
     {
-      "id": 119062,
-      "name": "Xanthotype sospeta",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 0,
-      "totalObservationCount": 0,
-      "curatorReviewCount": 3,
-      "taxonomy": {
-        "superfamily": "Geometroidea",
-        "family": "Geometridae",
-        "subfamily": "Ennominae",
-        "tribe": "Gnophini",
-        "genus": "Xanthotype",
-        "species": "Xanthotype sospeta"
-      }
-    },
-    {
       "id": 119086,
       "name": "Agrius cingulata",
       "isActive": true,
@@ -387,24 +351,6 @@
         "tribe": "Sphingini",
         "genus": "Agrius",
         "species": "Agrius cingulata"
-      }
-    },
-    {
-      "id": 120001,
-      "name": "Xanthotype urticaria",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 3,
-      "taxonomy": {
-        "superfamily": "Geometroidea",
-        "family": "Geometridae",
-        "subfamily": "Ennominae",
-        "tribe": "Gnophini",
-        "genus": "Xanthotype",
-        "species": "Xanthotype urticaria"
       }
     },
     {
@@ -1404,42 +1350,6 @@
       }
     },
     {
-      "id": 205155,
-      "name": "Nola cucullatella",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 2,
-      "taxonomy": {
-        "superfamily": "Noctuoidea",
-        "family": "Nolidae",
-        "subfamily": "Nolinae",
-        "tribe": "Nolini",
-        "genus": "Nola",
-        "species": "Nola cucullatella"
-      }
-    },
-    {
-      "id": 205193,
-      "name": "Acleris celiana",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 2,
-      "taxonomy": {
-        "superfamily": "Tortricoidea",
-        "family": "Tortricidae",
-        "subfamily": "Tortricinae",
-        "tribe": "Tortricini",
-        "genus": "Acleris",
-        "species": "Acleris celiana"
-      }
-    },
-    {
       "id": 205198,
       "name": "Eudeilinia herminiata",
       "isActive": true,
@@ -1600,24 +1510,6 @@
       }
     },
     {
-      "id": 211619,
-      "name": "Sciota basilaris",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 3,
-      "taxonomy": {
-        "superfamily": "Pyraloidea",
-        "family": "Pyralidae",
-        "subfamily": "Phycitinae",
-        "tribe": "Phycitini",
-        "genus": "Sciota",
-        "species": "Sciota basilaris"
-      }
-    },
-    {
       "id": 212168,
       "name": "Abagrotis brunneipennis",
       "isActive": true,
@@ -1759,24 +1651,6 @@
         "tribe": "Noctuini",
         "genus": "Abagrotis",
         "species": "Abagrotis reedi"
-      }
-    },
-    {
-      "id": 212326,
-      "name": "Acleris braunana",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 2,
-      "taxonomy": {
-        "superfamily": "Tortricoidea",
-        "family": "Tortricidae",
-        "subfamily": "Tortricinae",
-        "tribe": "Tortricini",
-        "genus": "Acleris",
-        "species": "Acleris braunana"
       }
     },
     {
@@ -2095,23 +1969,6 @@
         "subfamily": "Acronictinae",
         "genus": "Acronicta",
         "species": "Acronicta superans"
-      }
-    },
-    {
-      "id": 212499,
-      "name": "Adela purpurea",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 2,
-      "taxonomy": {
-        "superfamily": "Adeloidea",
-        "family": "Adelidae",
-        "subfamily": "Adelinae",
-        "genus": "Adela",
-        "species": "Adela purpurea"
       }
     },
     {
@@ -2543,59 +2400,6 @@
       }
     },
     {
-      "id": 213787,
-      "name": "Anthophila alpinella",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 2,
-      "taxonomy": {
-        "superfamily": "Choreutoidea",
-        "family": "Choreutidae",
-        "subfamily": "Choreutinae",
-        "genus": "Anthophila",
-        "species": "Anthophila alpinella"
-      }
-    },
-    {
-      "id": 213833,
-      "name": "Apamea centralis",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 2,
-      "taxonomy": {
-        "superfamily": "Noctuoidea",
-        "family": "Noctuidae",
-        "subfamily": "Noctuinae",
-        "tribe": "Apameini",
-        "genus": "Apamea",
-        "species": "Apamea centralis"
-      }
-    },
-    {
-      "id": 213835,
-      "name": "Apamea commoda",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 2,
-      "taxonomy": {
-        "superfamily": "Noctuoidea",
-        "family": "Noctuidae",
-        "subfamily": "Noctuinae",
-        "tribe": "Apameini",
-        "genus": "Apamea",
-        "species": "Apamea commoda"
-      }
-    },
-    {
       "id": 213849,
       "name": "Apamea lutosa",
       "isActive": true,
@@ -2611,24 +2415,6 @@
         "tribe": "Apameini",
         "genus": "Apamea",
         "species": "Apamea lutosa"
-      }
-    },
-    {
-      "id": 213852,
-      "name": "Apamea occidens",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 2,
-      "taxonomy": {
-        "superfamily": "Noctuoidea",
-        "family": "Noctuidae",
-        "subfamily": "Noctuinae",
-        "tribe": "Apameini",
-        "genus": "Apamea",
-        "species": "Apamea occidens"
       }
     },
     {
@@ -3040,23 +2826,6 @@
       }
     },
     {
-      "id": 215194,
-      "name": "Bibarrambla allenella",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 2,
-      "taxonomy": {
-        "superfamily": "Gelechioidea",
-        "family": "Depressariidae",
-        "subfamily": "Depressariinae",
-        "genus": "Bibarrambla",
-        "species": "Bibarrambla allenella"
-      }
-    },
-    {
       "id": 215208,
       "name": "Alsophila pometaria",
       "isActive": true,
@@ -3090,23 +2859,6 @@
         "tribe": "Archipini",
         "genus": "Aphelia",
         "species": "Aphelia alleniana"
-      }
-    },
-    {
-      "id": 215214,
-      "name": "Aristotelia isopelta",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 2,
-      "taxonomy": {
-        "superfamily": "Gelechioidea",
-        "family": "Gelechiidae",
-        "subfamily": "Anomologinae",
-        "genus": "Aristotelia",
-        "species": "Aristotelia isopelta"
       }
     },
     {
@@ -3369,23 +3121,6 @@
       }
     },
     {
-      "id": 215889,
-      "name": "Caloptilia cornusella",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 2,
-      "taxonomy": {
-        "superfamily": "Gracillarioidea",
-        "family": "Gracillariidae",
-        "subfamily": "Gracillariinae",
-        "genus": "Caloptilia",
-        "species": "Caloptilia cornusella"
-      }
-    },
-    {
       "id": 215893,
       "name": "Caloptilia invariabilis",
       "isActive": true,
@@ -3595,24 +3330,6 @@
       }
     },
     {
-      "id": 216739,
-      "name": "Chionodes praeclarella",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 2,
-      "taxonomy": {
-        "superfamily": "Gelechioidea",
-        "family": "Gelechiidae",
-        "subfamily": "Gelechiinae",
-        "tribe": "Gelechiini",
-        "genus": "Chionodes",
-        "species": "Chionodes praeclarella"
-      }
-    },
-    {
       "id": 216740,
       "name": "Chionodes trichostola",
       "isActive": true,
@@ -3751,23 +3468,6 @@
         "subfamily": "Coleophorinae",
         "genus": "Coleophora",
         "species": "Coleophora alnifoliae"
-      }
-    },
-    {
-      "id": 217327,
-      "name": "Coleophora cornella",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 2,
-      "taxonomy": {
-        "superfamily": "Gelechioidea",
-        "family": "Coleophoridae",
-        "subfamily": "Coleophorinae",
-        "genus": "Coleophora",
-        "species": "Coleophora cornella"
       }
     },
     {
@@ -4101,24 +3801,6 @@
       }
     },
     {
-      "id": 217674,
-      "name": "Crambus alienellus",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 2,
-      "taxonomy": {
-        "superfamily": "Pyraloidea",
-        "family": "Crambidae",
-        "subfamily": "Crambinae",
-        "tribe": "Crambini",
-        "genus": "Crambus",
-        "species": "Crambus alienellus"
-      }
-    },
-    {
       "id": 217896,
       "name": "Cucullia dorsalis",
       "isActive": true,
@@ -4150,24 +3832,6 @@
         "subfamily": "Cuculliinae",
         "genus": "Cucullia",
         "species": "Cucullia speyeri"
-      }
-    },
-    {
-      "id": 217924,
-      "name": "Cuniberta subtinctella",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 2,
-      "taxonomy": {
-        "superfamily": "Pyraloidea",
-        "family": "Pyralidae",
-        "subfamily": "Phycitinae",
-        "tribe": "Phycitini",
-        "genus": "Cuniberta",
-        "species": "Cuniberta subtinctella"
       }
     },
     {
@@ -4243,23 +3907,6 @@
       }
     },
     {
-      "id": 218208,
-      "name": "Deltote bellicula",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 2,
-      "taxonomy": {
-        "superfamily": "Noctuoidea",
-        "family": "Noctuidae",
-        "subfamily": "Eustrotiinae",
-        "genus": "Deltote",
-        "species": "Deltote bellicula"
-      }
-    },
-    {
       "id": 218323,
       "name": "Diarsia calgary",
       "isActive": true,
@@ -4275,23 +3922,6 @@
         "tribe": "Noctuini",
         "genus": "Diarsia",
         "species": "Diarsia calgary"
-      }
-    },
-    {
-      "id": 218373,
-      "name": "Dichomeris bilobella",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 2,
-      "taxonomy": {
-        "superfamily": "Gelechioidea",
-        "family": "Gelechiidae",
-        "subfamily": "Dichomeridinae",
-        "genus": "Dichomeris",
-        "species": "Dichomeris bilobella"
       }
     },
     {
@@ -4580,24 +4210,6 @@
       }
     },
     {
-      "id": 218616,
-      "name": "Dodia albertae",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 2,
-      "taxonomy": {
-        "superfamily": "Noctuoidea",
-        "family": "Erebidae",
-        "subfamily": "Arctiinae",
-        "tribe": "Arctiini",
-        "genus": "Dodia",
-        "species": "Dodia albertae"
-      }
-    },
-    {
       "id": 218724,
       "name": "Drasteria howlandii",
       "isActive": true,
@@ -4670,24 +4282,6 @@
       }
     },
     {
-      "id": 218843,
-      "name": "Dysstroma suspectata",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 2,
-      "taxonomy": {
-        "superfamily": "Geometroidea",
-        "family": "Geometridae",
-        "subfamily": "Larentiinae",
-        "tribe": "Cidariini",
-        "genus": "Dysstroma",
-        "species": "Dysstroma suspectata"
-      }
-    },
-    {
       "id": 218844,
       "name": "Dysstroma truncata",
       "isActive": true,
@@ -4738,24 +4332,6 @@
         "tribe": "Olethreutini",
         "genus": "Endothenia",
         "species": "Endothenia hebesana"
-      }
-    },
-    {
-      "id": 219201,
-      "name": "Entephria kidluitata",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 2,
-      "taxonomy": {
-        "superfamily": "Geometroidea",
-        "family": "Geometridae",
-        "subfamily": "Larentiinae",
-        "tribe": "Larentiini",
-        "genus": "Entephria",
-        "species": "Entephria kidluitata"
       }
     },
     {
@@ -4828,24 +4404,6 @@
         "tribe": "Eucosmini",
         "genus": "Epiblema",
         "species": "Epiblema brightonana"
-      }
-    },
-    {
-      "id": 219295,
-      "name": "Epiblema resumptana",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 2,
-      "taxonomy": {
-        "superfamily": "Tortricoidea",
-        "family": "Tortricidae",
-        "subfamily": "Olethreutinae",
-        "tribe": "Eucosmini",
-        "genus": "Epiblema",
-        "species": "Epiblema resumptana"
       }
     },
     {
@@ -5078,24 +4636,6 @@
         "tribe": "Erynnini",
         "genus": "Erynnis",
         "species": "Erynnis afranius"
-      }
-    },
-    {
-      "id": 219621,
-      "name": "Euchalcia borealis",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 2,
-      "taxonomy": {
-        "superfamily": "Noctuoidea",
-        "family": "Noctuidae",
-        "subfamily": "Plusiinae",
-        "tribe": "Plusiini",
-        "genus": "Euchalcia",
-        "species": "Euchalcia borealis"
       }
     },
     {
@@ -5492,24 +5032,6 @@
       }
     },
     {
-      "id": 219816,
-      "name": "Eupithecia niphadophilata",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 2,
-      "taxonomy": {
-        "superfamily": "Geometroidea",
-        "family": "Geometridae",
-        "subfamily": "Larentiinae",
-        "tribe": "Eupitheciini",
-        "genus": "Eupithecia",
-        "species": "Eupithecia niphadophilata"
-      }
-    },
-    {
       "id": 219817,
       "name": "Eupithecia niveifascia",
       "isActive": true,
@@ -5690,24 +5212,6 @@
       }
     },
     {
-      "id": 219833,
-      "name": "Eupithecia spermaphaga",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 2,
-      "taxonomy": {
-        "superfamily": "Geometroidea",
-        "family": "Geometridae",
-        "subfamily": "Larentiinae",
-        "tribe": "Eupitheciini",
-        "genus": "Eupithecia",
-        "species": "Eupithecia spermaphaga"
-      }
-    },
-    {
       "id": 219837,
       "name": "Eupithecia subfuscata",
       "isActive": true,
@@ -5741,24 +5245,6 @@
         "tribe": "Eupitheciini",
         "genus": "Eupithecia",
         "species": "Eupithecia tripunctaria"
-      }
-    },
-    {
-      "id": 219846,
-      "name": "Eupsilia devia",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 2,
-      "taxonomy": {
-        "superfamily": "Noctuoidea",
-        "family": "Noctuidae",
-        "subfamily": "Noctuinae",
-        "tribe": "Xylenini",
-        "genus": "Eupsilia",
-        "species": "Eupsilia devia"
       }
     },
     {
@@ -5921,24 +5407,6 @@
         "tribe": "Noctuini",
         "genus": "Euxoa",
         "species": "Euxoa choris"
-      }
-    },
-    {
-      "id": 219932,
-      "name": "Euxoa cinereopallidus",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 2,
-      "taxonomy": {
-        "superfamily": "Noctuoidea",
-        "family": "Noctuidae",
-        "subfamily": "Noctuinae",
-        "tribe": "Noctuini",
-        "genus": "Euxoa",
-        "species": "Euxoa cinereopallidus"
       }
     },
     {
@@ -9564,40 +9032,6 @@
       }
     },
     {
-      "id": 232604,
-      "name": "Tinagma obscurofasciella",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 2,
-      "taxonomy": {
-        "superfamily": "Douglasioidea",
-        "family": "Douglasiidae",
-        "genus": "Tinagma",
-        "species": "Tinagma obscurofasciella"
-      }
-    },
-    {
-      "id": 232915,
-      "name": "Trichordestra dodii",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 2,
-      "taxonomy": {
-        "superfamily": "Noctuoidea",
-        "family": "Noctuidae",
-        "subfamily": "Noctuinae",
-        "tribe": "Hadenini",
-        "genus": "Trichordestra",
-        "species": "Trichordestra dodii"
-      }
-    },
-    {
       "id": 233109,
       "name": "Tulsa umbripennis",
       "isActive": true,
@@ -9667,24 +9101,6 @@
         "tribe": "Xanthorhoini",
         "genus": "Xanthorhoe",
         "species": "Xanthorhoe algidata"
-      }
-    },
-    {
-      "id": 233738,
-      "name": "Xanthorhoe alticolata",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 2,
-      "taxonomy": {
-        "superfamily": "Geometroidea",
-        "family": "Geometridae",
-        "subfamily": "Larentiinae",
-        "tribe": "Xanthorhoini",
-        "genus": "Xanthorhoe",
-        "species": "Xanthorhoe alticolata"
       }
     },
     {
@@ -9832,24 +9248,6 @@
       }
     },
     {
-      "id": 233796,
-      "name": "Xestia normanianus",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 2,
-      "taxonomy": {
-        "superfamily": "Noctuoidea",
-        "family": "Noctuidae",
-        "subfamily": "Noctuinae",
-        "tribe": "Noctuini",
-        "genus": "Xestia",
-        "species": "Xestia normanianus"
-      }
-    },
-    {
       "id": 233805,
       "name": "Xestia vernilis",
       "isActive": true,
@@ -9904,24 +9302,6 @@
       }
     },
     {
-      "id": 233968,
-      "name": "Zeiraphera unfortunana",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 2,
-      "taxonomy": {
-        "superfamily": "Tortricoidea",
-        "family": "Tortricidae",
-        "subfamily": "Olethreutinae",
-        "tribe": "Eucosmini",
-        "genus": "Zeiraphera",
-        "species": "Zeiraphera unfortunana"
-      }
-    },
-    {
       "id": 235381,
       "name": "Colias skinneri",
       "isActive": true,
@@ -9955,24 +9335,6 @@
         "tribe": "Tortricini",
         "genus": "Acleris",
         "species": "Acleris hastiana"
-      }
-    },
-    {
-      "id": 258460,
-      "name": "Aethes monera",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 2,
-      "taxonomy": {
-        "superfamily": "Tortricoidea",
-        "family": "Tortricidae",
-        "subfamily": "Tortricinae",
-        "tribe": "Cochylini",
-        "genus": "Aethes",
-        "species": "Aethes monera"
       }
     },
     {
@@ -10079,23 +9441,6 @@
         "tribe": "Cochylini",
         "genus": "Thyraylia",
         "species": "Thyraylia bunteana"
-      }
-    },
-    {
-      "id": 321006,
-      "name": "Pyramidobela quinquecristata",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 2,
-      "taxonomy": {
-        "superfamily": "Gelechioidea",
-        "family": "Ethmiidae",
-        "subfamily": "Ethmiinae",
-        "genus": "Pyramidobela",
-        "species": "Pyramidobela quinquecristata"
       }
     },
     {
@@ -10415,23 +9760,6 @@
       }
     },
     {
-      "id": 325672,
-      "name": "Tetanolita palligera",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 0,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 2,
-      "taxonomy": {
-        "superfamily": "Noctuoidea",
-        "family": "Erebidae",
-        "subfamily": "Herminiinae",
-        "genus": "Tetanolita",
-        "species": "Tetanolita palligera"
-      }
-    },
-    {
       "id": 325700,
       "name": "Oidaematophorus balsamorrhizae",
       "isActive": true,
@@ -10503,23 +9831,6 @@
       }
     },
     {
-      "id": 326306,
-      "name": "Nemapogon auropulvella",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 2,
-      "taxonomy": {
-        "superfamily": "Tineoidea",
-        "family": "Tineidae",
-        "subfamily": "Nemapogoninae",
-        "genus": "Nemapogon",
-        "species": "Nemapogon auropulvella"
-      }
-    },
-    {
       "id": 326671,
       "name": "Chrysoesthia lingulacella",
       "isActive": true,
@@ -10571,23 +9882,6 @@
         "tribe": "Ennomini",
         "genus": "Prochoerodes",
         "species": "Prochoerodes amplicineraria"
-      }
-    },
-    {
-      "id": 333906,
-      "name": "Nemapogon cloacella",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 2,
-      "taxonomy": {
-        "superfamily": "Tineoidea",
-        "family": "Tineidae",
-        "subfamily": "Nemapogoninae",
-        "genus": "Nemapogon",
-        "species": "Nemapogon cloacella"
       }
     },
     {
@@ -10961,22 +10255,6 @@
       }
     },
     {
-      "id": 347089,
-      "name": "Aetole extraneella",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 2,
-      "taxonomy": {
-        "superfamily": "Yponomeutoidea",
-        "family": "Heliodinidae",
-        "genus": "Aetole",
-        "species": "Aetole extraneella"
-      }
-    },
-    {
       "id": 347098,
       "name": "Epinotia bigemina",
       "isActive": true,
@@ -11139,24 +10417,6 @@
       }
     },
     {
-      "id": 347162,
-      "name": "Bandera virginella",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 2,
-      "taxonomy": {
-        "superfamily": "Pyraloidea",
-        "family": "Pyralidae",
-        "subfamily": "Phycitinae",
-        "tribe": "Phycitini",
-        "genus": "Bandera",
-        "species": "Bandera virginella"
-      }
-    },
-    {
       "id": 347170,
       "name": "Drepanulatrix foeminaria",
       "isActive": true,
@@ -11247,42 +10507,6 @@
       }
     },
     {
-      "id": 347222,
-      "name": "Oligia violacea",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 0,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 2,
-      "taxonomy": {
-        "superfamily": "Noctuoidea",
-        "family": "Noctuidae",
-        "subfamily": "Noctuinae",
-        "tribe": "Apameini",
-        "genus": "Oligia",
-        "species": "Oligia violacea"
-      }
-    },
-    {
-      "id": 348548,
-      "name": "Cydia prosperana",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 0,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 2,
-      "taxonomy": {
-        "superfamily": "Tortricoidea",
-        "family": "Tortricidae",
-        "subfamily": "Olethreutinae",
-        "tribe": "Grapholitini",
-        "genus": "Cydia",
-        "species": "Cydia prosperana"
-      }
-    },
-    {
       "id": 348841,
       "name": "Eupithecia olivacea",
       "isActive": true,
@@ -11298,23 +10522,6 @@
         "tribe": "Eupitheciini",
         "genus": "Eupithecia",
         "species": "Eupithecia olivacea"
-      }
-    },
-    {
-      "id": 354568,
-      "name": "Scardia anatomella",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 2,
-      "taxonomy": {
-        "superfamily": "Tineoidea",
-        "family": "Tineidae",
-        "subfamily": "Scardiinae",
-        "genus": "Scardia",
-        "species": "Scardia anatomella"
       }
     },
     {
@@ -11546,24 +10753,6 @@
         "tribe": "Olethreutini",
         "genus": "Olethreutes",
         "species": "Olethreutes appendiceum"
-      }
-    },
-    {
-      "id": 361751,
-      "name": "Euxoa pluralis",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 4,
-      "taxonomy": {
-        "superfamily": "Noctuoidea",
-        "family": "Noctuidae",
-        "subfamily": "Noctuinae",
-        "tribe": "Noctuini",
-        "genus": "Euxoa",
-        "species": "Euxoa pluralis"
       }
     },
     {
@@ -15611,24 +14800,6 @@
       }
     },
     {
-      "id": 453310,
-      "name": "Epinotia rectiplicana",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 4,
-      "taxonomy": {
-        "superfamily": "Tortricoidea",
-        "family": "Tortricidae",
-        "subfamily": "Olethreutinae",
-        "tribe": "Eucosmini",
-        "genus": "Epinotia",
-        "species": "Epinotia rectiplicana"
-      }
-    },
-    {
       "id": 453312,
       "name": "Epinotia silvertoniensis",
       "isActive": true,
@@ -19333,24 +18504,6 @@
       }
     },
     {
-      "id": 511725,
-      "name": "Eucosma insignata",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 4,
-      "taxonomy": {
-        "superfamily": "Tortricoidea",
-        "family": "Tortricidae",
-        "subfamily": "Olethreutinae",
-        "tribe": "Eucosmini",
-        "genus": "Eucosma",
-        "species": "Eucosma insignata"
-      }
-    },
-    {
       "id": 511726,
       "name": "Eucosma fertoriana",
       "isActive": true,
@@ -22107,23 +21260,6 @@
       }
     },
     {
-      "id": 1427183,
-      "name": "Greya pectinifera",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 3,
-      "taxonomy": {
-        "superfamily": "Adeloidea",
-        "family": "Prodoxidae",
-        "subfamily": "Prodoxinae",
-        "genus": "Greya",
-        "species": "Greya pectinifera"
-      }
-    },
-    {
       "id": 1427184,
       "name": "Zelleria pyri",
       "isActive": true,
@@ -22299,24 +21435,6 @@
         "tribe": "Gnorimoschemini",
         "genus": "Gnorimoschema",
         "species": "Gnorimoschema rotundatum"
-      }
-    },
-    {
-      "id": 1430091,
-      "name": "Lozotaenia rindgei",
-      "isActive": true,
-      "publicNotes": "",
-      "privateNotes": "",
-      "researchGradeReviewCount": 1,
-      "totalObservationCount": 1,
-      "curatorReviewCount": 3,
-      "taxonomy": {
-        "superfamily": "Tortricoidea",
-        "family": "Tortricidae",
-        "subfamily": "Tortricinae",
-        "tribe": "Archipini",
-        "genus": "Lozotaenia",
-        "species": "Lozotaenia rindgei"
       }
     },
     {
